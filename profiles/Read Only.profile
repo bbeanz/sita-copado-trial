@@ -5965,11 +5965,6 @@
         <readable>true</readable>
     </fieldPermissions>
     <fieldPermissions>
-        <editable>false</editable>
-        <field>Bicycle_LG__c.Type__c</field>
-        <readable>false</readable>
-    </fieldPermissions>
-    <fieldPermissions>
         <editable>true</editable>
         <field>BusinessBrand.OrgId</field>
         <readable>true</readable>
@@ -14569,9 +14564,6 @@
         <layout>AuthorizationFormText-Authorization Form Text Layout</layout>
     </layoutAssignments>
     <layoutAssignments>
-        <layout>Bicycle_LG__c-Bicycle LG Layout</layout>
-    </layoutAssignments>
-    <layoutAssignments>
         <layout>BusinessBrand-Business Brand Layout</layout>
     </layoutAssignments>
     <layoutAssignments>
@@ -16189,10 +16181,6 @@
         <recordType>copado__User_Story__c.copado__Utility</recordType>
         <visible>false</visible>
     </recordTypeVisibilities>
-    <tabVisibilities>
-        <tab>Bicycle_LG__c</tab>
-        <visibility>DefaultOn</visibility>
-    </tabVisibilities>
     <tabVisibilities>
         <tab>copado__Account_Summary</tab>
         <visibility>Hidden</visibility>
